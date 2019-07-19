@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="button">ABOUT ALC</string>
+    <string name="button1">My Profile</string>
+</resources>
